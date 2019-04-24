@@ -1,0 +1,431 @@
+.logoletra{
+    font-family: 'Montserrat Black', arial;
+    font-size: 34px;
+}
+.hashletra{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    color: #364DC1;
+}
+
+.subhashletra{
+    font-family: 'Fira Sans', sans-serif;
+    color: #4B4341;
+    font-size: 12px;
+}
+
+.slider{
+    height: 100vh;
+}
+
+.sliderimg{
+    filter: brightness(0.5);
+}
+.sliderimg1{
+    filter: brightness(0.9);
+}
+
+.regularbox{
+    background:#1A3186;
+}
+
+.preciobox{
+    background: #1A3186;  
+}
+
+.precioboxgold{
+    background: #FFB500;  
+}
+
+.regularbox2{
+    background: #ffffff;
+    border: 0.5px solid black; 
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+
+.preciobox2{
+    background: #ffffff;
+    border: 0.9px solid white; 
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+
+.preciobox2gold{
+    background: #ffffff;
+    border: 0.9px solid white; 
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+
+.goldbox{
+   background: #FFB500;  
+}
+
+.cajita{
+  width: 300px;
+  border: 0.5px solid black;
+  padding: 0.5px;
+  margin: 5px;
+}
+
+.navtop{
+}
+
+.regulartext{
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.regulartext2{
+    color: #474544;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 20px;
+    top: 20%
+}
+
+.preciotext2{
+    color: #FFB500;
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    top: 20%
+}
+
+
+.preciotext2r{
+    color: #1A3186;
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    top: 20%
+}
+
+.oferttext{
+    color: #E7E7F8;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    text-decoration:line-through;
+    font-size: 30px;
+    top: 20%
+}
+
+.oferttext2{
+    color: #E7E7F8;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    top: 20%
+}
+
+.regulartext3{
+    color: #474544;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    top: 20%
+}
+
+.preciotext3{
+    color: #ffffff;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 12px;
+    top: 20%
+}
+
+.preciotext4{
+    color: #ffffff;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    top: 20%
+}
+
+.preciopnl{
+    font-size: 17px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+.precio{
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+
+.carousel-caption{
+    position: absolute;
+    top: 30%;
+    text-align: left;
+    width: 60vh;
+}
+
+.carousel-caption2{
+    position: absolute;
+    top: 50%;
+    text-align: right;
+    width: 150vh;
+}
+
+ .carousel-caption h6{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
+}
+
+.caja{
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+
+
+.hrline1 {
+    display: block;
+    height: 2px;
+    width: 60px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.hrline2 {
+    display: block;
+    height: 1px;
+    width: 95px;
+    border: 0;
+    border-top: 2px solid #364DC1;
+    margin: 0.5em 0;
+    padding: 0;
+}
+
+.hrline3 {
+    display: block;
+    height: 10px;
+    width: 295px;
+    border: 0;
+    border-top: 5px solid #F95127;
+    margin: 0.1em 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+.seminariolabel{
+    font-size: 17px;
+    color: #364DC1;
+}
+
+.pnltitle{
+   font-family: 'Raleway', sans-serif;
+   font-size: 28px;
+   color: black;
+}
+
+.button{
+-moz-box-shadow:inset 0px 1px 0px 0px #cf866c;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #cf866c;
+    box-shadow:inset 0px 1px 0px 0px #FFB500;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #FFB500), color-stop(1, #FFB500));
+    background:-moz-linear-gradient(top, #FFB500 5%, #FFB500 100%);
+    background:-webkit-linear-gradient(top, #FFB500 5%, #FFB500 100%);
+    background:-o-linear-gradient(top, #FFB500 5%, #FFB500 100%);
+    background:-ms-linear-gradient(top, #FFB500 5%, #FFB500 100%);
+    background:linear-gradient(to bottom, #FFB500 5%, #FFB500 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFB500', endColorstr='#FFB500',GradientType=0);
+    background-color:#FFB500;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    border:1px solid #FFB500;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size:20px;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #854629;
+}
+
+
+.button2{
+-moz-box-shadow:inset 0px 1px 3px 0px #636b6a;
+    -webkit-box-shadow:inset 0px 1px 3px 0px #636b6a;
+    box-shadow:inset 0px 1px 3px 0px #636b6a;
+    background-color:#000000;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+    border:1px solid #010504;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:11px 23px;
+    text-decoration:none;
+    text-shadow:0px -1px 0px #0f1f1d;
+}
+
+.buttoninfo{
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+    box-shadow:inset 0px 1px 0px 0px #ffffff;
+    background-color:transparent;
+    border:1px solid #ffffff;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Trebuchet MS;
+    font-size:13px;
+    font-weight:bold;
+    padding:6px 12px;
+    text-decoration:none;
+}
+
+.partebutton{
+   background-color:#364DC1;
+    border:1px solid #364DC1;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:16px;
+    font-weight:bold;
+    padding:8px 58px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #283666;
+}
+
+
+.carousel-caption h5{
+    font-family: 'Raleway', sans-serif;
+    font-size: 33px;
+}
+
+.carousel-caption p{
+    font-size: 16px;
+}
+
+.eventyeartext{
+    text-align: center;
+     font-family: 'Fira Sans', sans-serif;
+}
+
+
+.footbar{
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #364DC1;
+}
+
+.foottext{
+        font-size: 20px;
+        font-family: 'Fira Sans', sans-serif;
+        color: white;
+}
+
+.footimage{
+    height: 70px;
+    width: 150px;
+}
+
+
+@media (max-width: 800px){
+     .slider {
+    height: 32vh;
+    }
+
+    .carousel-caption{
+    position: absolute;
+    top: 20%;
+    text-align: left;
+    width: 27vh;
+}
+
+    .carousel-caption2{
+    position: absolute;
+    top: 50%;
+    text-align: right;
+    width: 54vh;
+}
+
+    .carousel-caption h5{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+    .carousel-caption h6{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 8px;
+}
+
+    .carousel-caption p{
+    font-size: 7px;
+}
+
+
+
+
+.buttoninfo{
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+    box-shadow:inset 0px 1px 0px 0px #ffffff;
+    background-color:transparent;
+    border:1px solid #ffffff;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Trebuchet MS;
+    font-size:6px;
+    font-weight:bold;
+    padding:2px 4px;
+    text-decoration:none;
+}
+
+.partebutton{
+   background-color:#364DC1;
+    border:1px solid #364DC1;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:8px;
+    font-weight:bold;
+    padding:4px 29px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #283666;
+}
+
+
+
+
+.hrline1 {
+  width: 0px;
+    border: 0;
+    border-top: 0px solid #ccc;
+    margin: 0em 0;
+    padding: 0;    display: block;
+    height: 0px;
+  
+}
+
+.image1{
+    height: 100px;
+    width: 100px;
+    align-content: center;
+ }
+
+ .image2{
+    height: 0px;
+    width: 0px;
+    align-content: center;
+ }
+
+
+
+}
